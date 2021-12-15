@@ -2,9 +2,11 @@
 
 namespace App\Http\Controllers;
 
+use App\Exports\InvoicesExport;
 use App\Models\Invoice;
 use Illuminate\Http\Request;
-use Spatie\PdfToText\Pdf;
+use App\Exports\UsersExport;
+use Maatwebsite\Excel\Facades\Excel;
 
 
 
@@ -40,26 +42,47 @@ class InvoiceController extends Controller
     public function store(Request $request)
     {
         $file = new \SplFileObject($request->document);
+        //retorna indice 0 array
         $file->seek(0);
+        //retorna valor indice 0
         $empresa = $file->current();
         $file->seek(7);
         $valor = $file->current();
 
         $fileIterator = new \LimitIterator($file, 21);
+        $etapas = [];
         foreach ($fileIterator as $line) {
             $linha = explode(';', $line);
+            if ($linha[0] != "") {
+                $etapas[$linha[0]][] = $linha;
+                if($linha[13] == "Mensalidades e Pacotes Promocionais"){
+                    //print_r(array_unique($linha));
+                }
+               
+                
+            }
+
             $data = Invoice::create([
                 'empresa' => $empresa,
                 'valor' => preg_replace('/\D/', '', $valor),
                 'linhas' => $linha[0]
             ]);
-           
+
+            
         }
-        
 
-     //return view('upload', compact('data'));
+        print_r($etapas);
 
-       
+
+
+        //return view('upload', compact('data'));
+
+
+    }
+
+    public function export()
+    {
+        return Excel::download(new InvoicesExport, 'invoices.xlsx');
     }
 
 

@@ -17,3 +17,4 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', [InvoiceController::class, 'index']);
 Route::get('/upload', [InvoiceController::class, 'create']);
 Route::post('/upload-file', [InvoiceController::class, 'store']);
+Route::get('/invoices/export', [InvoiceController::class, 'export'])->name('invoice.export');
