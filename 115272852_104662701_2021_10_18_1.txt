@@ -1,0 +1,537 @@
+RICARDO ALEXANDRE GALETO CHOMICZ ME - 27467352000108
+R. ALMIRANTE BARROSO, 2418  - UVARANAS     
+84020-030 PR PONTA GROSSA
+N° Cliente: 115272852
+
+Período de Referência: 21/09/2021 a 20/10/2021
+Data de Vencimento: 15/11/2021 - Filtro:   - (Todos)
+Valor: R$ 487,66
+Nota Fiscal Claro:15470923/102021:B23 ICMS: Aliquota: 29,00 Base de Calculo: 71,58 Valor Imposto: 20,76
+Nota Fiscal Claro:15470923/102021:B23 PIS: Aliquota: 3,00 Base de Calculo: 50,78 Valor Imposto: 1,52
+Nota Fiscal Claro:15470923/102021:B23 PIS: Aliquota: 0,65 Base de Calculo: 50,78 Valor Imposto: 0,33
+Nota Fiscal Claro:16313487/102021 Documento Financeiro: Aliquota: 0,00 Base de Calculo: 0,00 Valor Imposto: 148,54
+Nota Fiscal Claro SA:00716844/102021:A7B ICMS: Aliquota: 29,00 Base de Calculo: 23,86 Valor Imposto: 6,92
+Nota Fiscal Claro SA:00716844/102021:A7B COFINS: Aliquota: 3,00 Base de Calculo: 16,96 Valor Imposto: 0,51
+Nota Fiscal Claro SA:00716844/102021:A7B PIS: Aliquota: 0,65 Base de Calculo: 16,96 Valor Imposto: 0,11
+
+Identificação para débito automático: 104662701
+
+Tel;Seção;Data;Hora;Origem(UF)-Destino;Número;Duração/Quantidade;Tarifa;Valor;Valor Cobrado;Nome;CC;Matrícula;Sub-Seção;Tipo Imposto;Descrição;Cargo;Nome Local Origem;Nome Local Destino;Código Local Origem;Código Local Destino
+42 98816-0041;Claro Life Ilimitado 500MB : 21/09/2021 a 06/10/2021;21/09/2021;;;;;0,00;2,93;2,93;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+42 98808-1147;Gestor Online - Controle Completo : 07/10/2021 a 20/10/2021;07/10/2021;;;;;0,00;4,61;4,61;;;;Mensalidades e Pacotes Promocionais;;;;;;;
+42 98808-1147;Claro Life Ilimitado 3GB : 21/09/2021 a 06/10/2021;21/09/2021;;;;;0,00;4,07;4,07;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+42 98808-1147;Claro Life Ilimitado 3GB : 21/09/2021 a 06/10/2021;21/09/2021;;;;;0,00;5,08;5,08;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+42 98870-8993;Aplicativos Digitais - Revista Light : 07/10/2021 a 20/10/2021;07/10/2021;;;;;0,00;2,79;2,79;;;;Mensalidades e Pacotes Promocionais;;;;;;;
+42 98808-1147;Claro Life Ilimitado 3GB : 07/10/2021 a 20/10/2021;07/10/2021;;;;;0,00;3,55;3,55;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+42 98808-1147;Claro Life Ilimitado 3GB : 07/10/2021 a 20/10/2021;07/10/2021;;;;;0,00;3,57;3,57;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+42 98870-8993;Claro Life Ilimitado 3GB : 07/10/2021 a 20/10/2021;07/10/2021;;;;;0,00;,88;,88;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+42 98808-0544;Claro Life Ilimitado 3GB : 21/09/2021 a 06/10/2021;21/09/2021;;;;;0,00;4,07;4,07;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+42 98808-1147;Gestor Online - Controle Completo : 21/09/2021 a 06/10/2021;21/09/2021;;;;;0,00;5,27;5,27;;;;Mensalidades e Pacotes Promocionais;;;;;;;
+42 98808-0544;Aplicativos Digitais - Revista Light : 07/10/2021 a 20/10/2021;07/10/2021;;;;;0,00;2,79;2,79;;;;Mensalidades e Pacotes Promocionais;;;;;;;
+42 98870-8993;Claro Life Ilimitado 3GB : 21/09/2021 a 06/10/2021;21/09/2021;;;;;0,00;4,07;4,07;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+42 98816-0041;Claro Life Ilimitado 500MB : 07/10/2021 a 20/10/2021;07/10/2021;;;;;0,00;2,58;2,58;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+42 98808-0544;Gestor Online - Controle Completo : 21/09/2021 a 06/10/2021;21/09/2021;;;;;0,00;5,27;5,27;;;;Mensalidades e Pacotes Promocionais;;;;;;;
+42 98808-1147;Claro Life Ilimitado 3GB : 21/09/2021 a 06/10/2021;21/09/2021;;;;;0,00;4,05;4,05;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+42 98816-0041;Claro Life Ilimitado 500MB : 07/10/2021 a 20/10/2021;07/10/2021;;;;;0,00;3,21;3,21;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+42 98870-8993;Aplicativos Digitais - Revista Light : 21/09/2021 a 06/10/2021;21/09/2021;;;;;0,00;3,19;3,19;;;;Mensalidades e Pacotes Promocionais;;;;;;;
+42 98870-8993;Claro Life Ilimitado 3GB : 21/09/2021 a 06/10/2021;21/09/2021;;;;;0,00;5,08;5,08;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+42 98816-0041;Claro Life Ilimitado 500MB : 21/09/2021 a 06/10/2021;21/09/2021;;;;;0,00;4,41;4,41;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+42 98816-0041;Claro Life Ilimitado 500MB : 07/10/2021 a 20/10/2021;07/10/2021;;;;;0,00;3,85;3,85;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+42 98808-0544;Claro Life Ilimitado 3GB : 21/09/2021 a 06/10/2021;21/09/2021;;;;;0,00;4,05;4,05;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+42 98808-1147;Claro Life Ilimitado 3GB : 07/10/2021 a 20/10/2021;07/10/2021;;;;;0,00;,88;,88;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+42 98870-8993;Gestor Online - Controle Completo : 21/09/2021 a 06/10/2021;21/09/2021;;;;;0,00;5,27;5,27;;;;Mensalidades e Pacotes Promocionais;;;;;;;
+42 98808-1147;Claro Life Ilimitado 3GB : 07/10/2021 a 20/10/2021;07/10/2021;;;;;0,00;4,43;4,43;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+42 98870-8993;Claro Life Ilimitado 3GB : 21/09/2021 a 06/10/2021;21/09/2021;;;;;0,00;4,05;4,05;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+42 98816-0041;Claro Life Ilimitado 500MB : 21/09/2021 a 06/10/2021;21/09/2021;;;;;0,00;3,67;3,67;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+42 98816-0041;Gestor Online - Controle Completo : 07/10/2021 a 20/10/2021;07/10/2021;;;;;0,00;4,61;4,61;;;;Mensalidades e Pacotes Promocionais;;;;;;;
+;Multa por atraso de pagamento : 21/09/2021 a 20/10/2021;21/09/2021;;;;;0,00;1,68;1,68;;;;Juros e Multa;;;;;;;
+;Multa por atraso de pagamento : 21/09/2021 a 20/10/2021;21/09/2021;;;;;0,00;4,79;4,79;;;;Juros e Multa;;;;;;;
+;Multa por atraso de pagamento : 21/09/2021 a 20/10/2021;21/09/2021;;;;;0,00;,53;,53;;;;Juros e Multa;;;;;;;
+;Parcelamento de Aparelho : 23/01/2020 a 23/01/2020;23/01/2020;;;;;0,00;98,28;98,28;;;;Outros;;;;;;;
+;Multa por atraso de pagamento : 21/09/2021 a 20/10/2021;21/09/2021;;;;;0,00;,18;,18;;;;Juros e Multa;;;;;;;
+;Débitos Anteriores Ref. 10/2021 : 21/09/2021 a 20/10/2021;21/09/2021;;;;;0,00;243,68;243,68;;;;Débitos Anteriores;;;;;;;
+42 98808-1147;Desconto Gestor Online - Controle Completo : 07/10/2021 a 20/10/2021;07/10/2021;;;;;0,00;-1,15;-1,15;;;;Ajustes e Descontos;;;;;;;
+42 98808-0544;Desconto Gestor Online - Controle Completo : 21/09/2021 a 06/10/2021;21/09/2021;;;;;0,00;-1,32;-1,32;;;;Ajustes e Descontos;;;;;;;
+42 98870-8993;Desconto Gestor Online - Controle Completo : 21/09/2021 a 06/10/2021;21/09/2021;;;;;0,00;-1,32;-1,32;;;;Ajustes e Descontos;;;;;;;
+42 98808-1147;Desconto Aplicativos Digitais - Revista Light : 21/09/2021 a 06/10/2021;21/09/2021;;;;;0,00;-,8;-,8;;;;Ajustes e Descontos;;;;;;;
+42 98808-1147;Desconto Claro Life Ilimitado 3GB : 07/10/2021 a 20/10/2021;07/10/2021;;;;;0,00;-5,83;-5,83;;;;Ajustes e Descontos;;;;;;;
+42 98808-1147;Desconto Claro Life Ilimitado 3GB : 21/09/2021 a 06/10/2021;21/09/2021;;;;;0,00;-6,67;-6,67;;;;Ajustes e Descontos;;;;;;;
+42 98870-8993;Desconto Aplicativos Digitais - Revista Light : 07/10/2021 a 20/10/2021;07/10/2021;;;;;0,00;-,7;-,7;;;;Ajustes e Descontos;;;;;;;
+42 98870-8993;Desconto Claro Life Ilimitado 3GB : 21/09/2021 a 06/10/2021;21/09/2021;;;;;0,00;-6,67;-6,67;;;;Ajustes e Descontos;;;;;;;
+42 98816-0041;Desconto Claro Life Ilimitado 500MB : 21/09/2021 a 06/10/2021;21/09/2021;;;;;0,00;-4,67;-4,67;;;;Ajustes e Descontos;;;;;;;
+42 98808-1147;Desconto Gestor Online - Controle Completo : 21/09/2021 a 06/10/2021;21/09/2021;;;;;0,00;-1,32;-1,32;;;;Ajustes e Descontos;;;;;;;
+42 98808-0544;Desconto Gestor Online - Controle Completo : 07/10/2021 a 20/10/2021;07/10/2021;;;;;0,00;-1,15;-1,15;;;;Ajustes e Descontos;;;;;;;
+42 98816-0041;Desconto Gestor Online - Controle Completo : 21/09/2021 a 06/10/2021;21/09/2021;;;;;0,00;-1,32;-1,32;;;;Ajustes e Descontos;;;;;;;
+42 98808-0544;Desconto Aplicativos Digitais - Revista Light : 07/10/2021 a 20/10/2021;07/10/2021;;;;;0,00;-,7;-,7;;;;Ajustes e Descontos;;;;;;;
+42 98816-0041;Desconto Gestor Online - Controle Completo : 07/10/2021 a 20/10/2021;07/10/2021;;;;;0,00;-1,15;-1,15;;;;Ajustes e Descontos;;;;;;;
+42 98870-8993;Desconto Gestor Online - Controle Completo : 07/10/2021 a 20/10/2021;07/10/2021;;;;;0,00;-1,15;-1,15;;;;Ajustes e Descontos;;;;;;;
+42 98870-8993;Desconto Claro Life Ilimitado 3GB : 07/10/2021 a 20/10/2021;07/10/2021;;;;;0,00;-5,83;-5,83;;;;Ajustes e Descontos;;;;;;;
+42 98808-1147;Desconto Aplicativos Digitais - Revista Light : 07/10/2021 a 20/10/2021;07/10/2021;;;;;0,00;-,7;-,7;;;;Ajustes e Descontos;;;;;;;
+42 98816-0041;Desconto Claro Life Ilimitado 500MB : 07/10/2021 a 20/10/2021;07/10/2021;;;;;0,00;-4,07;-4,07;;;;Ajustes e Descontos;;;;;;;
+42 98808-0544;Desconto Claro Life Ilimitado 3GB : 07/10/2021 a 20/10/2021;07/10/2021;;;;;0,00;-5,83;-5,83;;;;Ajustes e Descontos;;;;;;;
+42 98808-0544;Desconto Aplicativos Digitais - Revista Light : 21/09/2021 a 06/10/2021;21/09/2021;;;;;0,00;-,8;-,8;;;;Ajustes e Descontos;;;;;;;
+42 98870-8993;Desconto Aplicativos Digitais - Revista Light : 21/09/2021 a 06/10/2021;21/09/2021;;;;;0,00;-,8;-,8;;;;Ajustes e Descontos;;;;;;;
+42 98808-0544;Desconto Claro Life Ilimitado 3GB : 21/09/2021 a 06/10/2021;21/09/2021;;;;;0,00;-6,67;-6,67;;;;Ajustes e Descontos;;;;;;;
+42 98808-1147;Pacote Mobilidade : 21/09/2021 a 06/10/2021;21/09/2021;;;;;0,00;0;0;;;;Franquias e Planos;;;;;;;
+42 98808-0544;Pacote Mobilidade : 07/10/2021 a 20/10/2021;07/10/2021;;;;;0,00;0;0;;;;Franquias e Planos;;;;;;;
+42 98870-8993;PJ Bônus de Internet Turbo - 3GB : 07/10/2021 a 20/10/2021;07/10/2021;;;;;0,00;0;0;;;;Franquias e Planos;;;;;;;
+42 98870-8993;PJ Bônus de Internet Turbo - 3GB : 21/09/2021 a 06/10/2021;21/09/2021;;;;;0,00;0;0;;;;Franquias e Planos;;;;;;;
+42 98816-0041;PJ Bônus de Internet Turbo - 500MB : 21/09/2021 a 06/10/2021;21/09/2021;;;;;0,00;0;0;;;;Franquias e Planos;;;;;;;
+42 98816-0041;PJ Bônus de Internet Turbo - 500MB : 07/10/2021 a 20/10/2021;07/10/2021;;;;;0,00;0;0;;;;Franquias e Planos;;;;;;;
+42 98808-0544;PJ Bônus de Internet Turbo - 3GB : 07/10/2021 a 20/10/2021;07/10/2021;;;;;0,00;0;0;;;;Franquias e Planos;;;;;;;
+42 98870-8993;Pacote Mobilidade : 21/09/2021 a 06/10/2021;21/09/2021;;;;;0,00;0;0;;;;Franquias e Planos;;;;;;;
+42 98808-1147;PJ Bônus de Internet Turbo - 3GB : 21/09/2021 a 06/10/2021;21/09/2021;;;;;0,00;0;0;;;;Franquias e Planos;;;;;;;
+42 98870-8993;Pacote Mobilidade : 07/10/2021 a 20/10/2021;07/10/2021;;;;;0,00;0;0;;;;Franquias e Planos;;;;;;;
+42 98808-0544;Pacote Mobilidade : 21/09/2021 a 06/10/2021;21/09/2021;;;;;0,00;0;0;;;;Franquias e Planos;;;;;;;
+42 98808-0544;PJ Bônus de Internet Turbo - 3GB : 21/09/2021 a 06/10/2021;21/09/2021;;;;;0,00;0;0;;;;Franquias e Planos;;;;;;;
+42 98808-1147;PJ Bônus de Internet Turbo - 3GB : 07/10/2021 a 20/10/2021;07/10/2021;;;;;0,00;0;0;;;;Franquias e Planos;;;;;;;
+42 98808-1147;Pacote Mobilidade : 07/10/2021 a 20/10/2021;07/10/2021;;;;;0,00;0;0;;;;Franquias e Planos;;;;;;;
+42 98808-0544;Claro Life Ilimitado 3GB : 07/10/2021 a 20/10/2021;07/10/2021;;;;;0,00;3,57;3,57;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+42 98870-8993;Claro Life Ilimitado 3GB : 21/09/2021 a 06/10/2021;21/09/2021;;;;;0,00;1,01;1,01;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+42 98808-0544;Claro Life Ilimitado 3GB : 21/09/2021 a 06/10/2021;21/09/2021;;;;;0,00;5,08;5,08;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+42 98808-0544;Claro Life Ilimitado 3GB : 07/10/2021 a 20/10/2021;07/10/2021;;;;;0,00;4,43;4,43;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+42 98808-0544;Gestor Online - Controle Completo : 07/10/2021 a 20/10/2021;07/10/2021;;;;;0,00;4,61;4,61;;;;Mensalidades e Pacotes Promocionais;;;;;;;
+42 98808-1147;Claro Life Ilimitado 3GB : 21/09/2021 a 06/10/2021;21/09/2021;;;;;0,00;1,01;1,01;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+42 98808-0544;Claro Life Ilimitado 3GB : 07/10/2021 a 20/10/2021;07/10/2021;;;;;0,00;5,32;5,32;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+42 98808-0544;Claro Life Ilimitado 3GB : 07/10/2021 a 20/10/2021;07/10/2021;;;;;0,00;3,55;3,55;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+42 98808-1147;Claro Life Ilimitado 3GB : 21/09/2021 a 06/10/2021;21/09/2021;;;;;0,00;6,09;6,09;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+42 98870-8993;Claro Life Ilimitado 3GB : 21/09/2021 a 06/10/2021;21/09/2021;;;;;0,00;6,09;6,09;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+42 98816-0041;Gestor Online - Controle Completo : 21/09/2021 a 06/10/2021;21/09/2021;;;;;0,00;5,27;5,27;;;;Mensalidades e Pacotes Promocionais;;;;;;;
+42 98870-8993;Claro Life Ilimitado 3GB : 07/10/2021 a 20/10/2021;07/10/2021;;;;;0,00;3,55;3,55;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+42 98870-8993;Claro Life Ilimitado 3GB : 07/10/2021 a 20/10/2021;07/10/2021;;;;;0,00;4,43;4,43;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+42 98816-0041;Claro Life Ilimitado 500MB : 07/10/2021 a 20/10/2021;07/10/2021;;;;;0,00;2,57;2,57;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+42 98808-1147;Claro Life Ilimitado 3GB : 07/10/2021 a 20/10/2021;07/10/2021;;;;;0,00;5,32;5,32;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+42 98808-0544;Aplicativos Digitais - Revista Light : 21/09/2021 a 06/10/2021;21/09/2021;;;;;0,00;3,19;3,19;;;;Mensalidades e Pacotes Promocionais;;;;;;;
+42 98870-8993;Claro Life Ilimitado 3GB : 07/10/2021 a 20/10/2021;07/10/2021;;;;;0,00;5,32;5,32;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+42 98816-0041;Claro Life Ilimitado 500MB : 07/10/2021 a 20/10/2021;07/10/2021;;;;;0,00;,64;,64;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+42 98808-1147;Aplicativos Digitais - Revista Light : 21/09/2021 a 06/10/2021;21/09/2021;;;;;0,00;3,19;3,19;;;;Mensalidades e Pacotes Promocionais;;;;;;;
+42 98808-0544;Claro Life Ilimitado 3GB : 21/09/2021 a 06/10/2021;21/09/2021;;;;;0,00;6,09;6,09;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+42 98808-0544;Claro Life Ilimitado 3GB : 21/09/2021 a 06/10/2021;21/09/2021;;;;;0,00;1,01;1,01;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+42 98816-0041;Claro Life Ilimitado 500MB : 21/09/2021 a 06/10/2021;21/09/2021;;;;;0,00;2,95;2,95;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+42 98808-0544;Claro Life Ilimitado 3GB : 07/10/2021 a 20/10/2021;07/10/2021;;;;;0,00;,88;,88;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+42 98870-8993;Claro Life Ilimitado 3GB : 07/10/2021 a 20/10/2021;07/10/2021;;;;;0,00;3,57;3,57;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+42 98808-1147;Aplicativos Digitais - Revista Light : 07/10/2021 a 20/10/2021;07/10/2021;;;;;0,00;2,79;2,79;;;;Mensalidades e Pacotes Promocionais;;;;;;;
+42 98870-8993;Gestor Online - Controle Completo : 07/10/2021 a 20/10/2021;07/10/2021;;;;;0,00;4,61;4,61;;;;Mensalidades e Pacotes Promocionais;;;;;;;
+42 98816-0041;Claro Life Ilimitado 500MB : 21/09/2021 a 06/10/2021;21/09/2021;;;;;0,00;,72;,72;;;;Mensalidades e Pacotes Promocionais;ICMS;;;;;;
+42 98808-0544;Int. Nacional;17/09/2021;10:54:45;Paraná - Maranhão (99);99984558923;00:01:36;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Paraná;Maranhão (99);00042;00099
+42 98808-0544;Internet (MB);20/09/2021;07:20:16;;;16,45996;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98808-0544;Internet (MB);20/09/2021;08:17:18;;;,373046;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Aplic. Java;;;;00042;0
+42 98808-0544;Internet (MB);21/09/2021;00:00:02;;;25,314453;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98808-0544;Internet (MB);21/09/2021;07:45:46;;;1,276367;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Aplic. Java;;;;00042;0
+42 98808-0544;Internet (MB);21/09/2021;07:53:28;;;43,728515;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98808-0544;Claro-Outras Op.;21/09/2021;21:43:57;Paraná - Paraná (42);42999620295;00:00:30;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (42);00042;04400
+42 98808-0544;Internet (MB);22/09/2021;06:00:56;;;55,221679;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98808-0544;Internet (MB);22/09/2021;07:38:19;;;11,618164;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Aplic. Java;;;;00042;0
+42 98808-0544;Internet (MB);22/09/2021;07:54:50;;;36,499023;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98808-0544;Internet (MB);22/09/2021;09:30:26;;;,038085;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98808-0544;Claro-Claro;22/09/2021;11:26:47;Paraná - Paraná (42);42988081147;00:01:24;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (42);00042;00042
+42 98808-0544;Claro-Claro;22/09/2021;11:32:47;Paraná - Paraná (42);42988081147;00:00:30;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (42);00042;00042
+42 98808-0544;Int. Nacional;22/09/2021;11:53:06;Paraná - Goiás (62);62984878082;00:10:48;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Paraná;Goiás (62);00042;56200
+42 98808-0544;Internet (MB);23/09/2021;00:08:26;;;175,974609;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98808-0544;Internet (MB);23/09/2021;07:25:21;;;2,942382;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Aplic. Java;;;;00042;0
+42 98808-0544;Internet (MB);23/09/2021;07:58:02;;;35,114257;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98808-0544;Internet (MB);23/09/2021;17:15:41;;;87,21582;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98808-0544;Internet (MB);24/09/2021;01:23:08;;;93,964843;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98808-0544;Internet (MB);24/09/2021;10:30:21;;;,016601;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98808-0544;Internet (MB);24/09/2021;10:34:14;;;,302734;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Aplic. Java;;;;00042;0
+42 98808-0544;Claro-Claro;24/09/2021;16:46:53;Paraná - Paraná (42);42988081147;00:00:48;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (42);00042;00042
+42 98808-0544;Claro-Claro;24/09/2021;16:52:11;Paraná - Paraná (42);42988081147;00:02:24;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (42);00042;00042
+42 98808-0544;Internet (MB);24/09/2021;20:36:45;;;20,364257;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98808-0544;Internet (MB);25/09/2021;07:24:07;;;210,164062;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98808-0544;Internet (MB);25/09/2021;09:47:40;;;1,358398;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Aplic. Java;;;;00042;0
+42 98808-0544;Internet (MB);25/09/2021;12:32:59;;;22,264648;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98808-0544;Internet (MB);26/09/2021;01:28:55;;;24,796875;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98808-0544;Internet (MB);26/09/2021;09:43:30;;;,27832;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Aplic. Java;;;;00042;0
+42 98808-0544;Claro-Claro;26/09/2021;10:58:43;Paraná - Paraná (42);42999175627;00:00:48;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (42);00042;00042
+42 98808-0544;Internet (MB);26/09/2021;14:51:59;;;21,293945;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98808-0544;Internet (MB);27/09/2021;01:24:54;;;13,286132;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98808-0544;Internet (MB);27/09/2021;08:00:13;;;10,651367;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98808-0544;Internet (MB);27/09/2021;11:38:21;;;,34082;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Aplic. Java;;;;00042;0
+42 98808-0544;Internet (MB);28/09/2021;04:56:57;;;4,43457;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98808-0544;Internet (MB);28/09/2021;08:53:43;;;,060546;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Aplic. Java;;;;00042;0
+42 98808-0544;Internet (MB);29/09/2021;01:26:34;;;61,894531;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98808-0544;Internet (MB);29/09/2021;15:58:58;;;1,627929;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Aplic. Java;;;;00042;0
+42 98808-0544;Claro-Claro;29/09/2021;16:05:19;Paraná - Paraná (42);42988081147;00:00:30;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (42);00042;00042
+42 98808-0544;Internet (MB);29/09/2021;16:08:27;;;58,80957;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98808-0544;Internet (MB);29/09/2021;18:22:32;;;,009765;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98808-0544;Internet (MB);30/09/2021;00:28:21;;;22,25;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98808-0544;Internet (MB);30/09/2021;15:35:33;;;,383789;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98808-0544;Internet (MB);30/09/2021;15:36:36;;;,939453;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Aplic. Java;;;;00042;0
+42 98808-0544;Internet (MB);01/10/2021;05:41:40;;;2,509765;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98808-0544;Internet (MB);01/10/2021;08:31:38;;;,135742;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Aplic. Java;;;;00042;0
+42 98808-0544;Claro-Claro;01/10/2021;11:52:38;Paraná - Paraná (42);42988081147;00:00:30;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (42);00042;00042
+42 98808-0544;Internet (MB);01/10/2021;12:08:58;;;3,016601;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98808-0544;Claro-Claro;01/10/2021;13:16:05;Paraná - Paraná (42);42999175627;00:00:30;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (42);00042;00042
+42 98808-0544;Internet (MB);02/10/2021;07:11:24;;;54,368164;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98808-0544;Internet (MB);02/10/2021;09:21:06;;;2,24121;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Aplic. Java;;;;00042;0
+42 98808-0544;Internet (MB);03/10/2021;01:55:51;;;36,308593;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98808-0544;Claro-Claro;03/10/2021;11:11:06;Paraná - Paraná (42);42999175627;00:01:48;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (42);00042;00042
+42 98808-0544;Internet (MB);04/10/2021;07:26:52;;;13,662109;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98808-0544;Internet (MB);04/10/2021;07:28:24;;;,019531;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98808-0544;Claro-Claro;04/10/2021;11:20:28;Paraná - Paraná (42);42999029613;00:03:06;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (42);00042;00042
+42 98808-0544;Internet (MB);04/10/2021;13:46:37;;;,037109;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98808-0544;Claro-Claro;04/10/2021;18:58:11;Paraná - Paraná (42);42999175627;00:01:36;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (42);00042;00042
+42 98808-0544;Internet (MB);05/10/2021;00:28:26;;;25,638671;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98808-0544;Internet (MB);05/10/2021;07:58:42;;;50,496093;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98808-0544;Internet (MB);05/10/2021;23:57:06;;;,017578;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98808-0544;Internet (MB);06/10/2021;07:14:54;;;58,173828;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98808-0544;Internet (MB);06/10/2021;14:13:42;;;1,117187;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98808-0544;Internet (MB);06/10/2021;16:02:31;;;,009765;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98808-0544;Internet (MB);07/10/2021;04:28:12;;;577,912109;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98808-0544;Internet (MB);07/10/2021;08:00:07;;;12,629882;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98808-0544;Claro-Claro;07/10/2021;10:56:31;Paraná - Paraná (42);42988081147;00:01:00;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (42);00042;00042
+42 98808-0544;Claro-Claro;07/10/2021;10:57:58;Paraná - Paraná (42);42999175627;00:02:48;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (42);00042;00042
+42 98808-0544;Internet (MB);07/10/2021;12:28:48;;;21,541015;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98808-0544;Internet (MB);08/10/2021;00:50:11;;;27,77539;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98808-0544;Int. Nacional;08/10/2021;10:41:54;Paraná - Goiás (62);62984878082;00:00:30;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Paraná;Goiás (62);00042;56200
+42 98808-0544;Int. Regional;08/10/2021;12:04:07;Paraná - Paraná (43);43991479746;00:00:48;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Paraná;Paraná (43);00042;00043
+42 98808-0544;Internet (MB);08/10/2021;13:25:06;;;68,041015;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98808-0544;Internet (MB);08/10/2021;13:52:05;;;2,071289;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98808-0544;Claro-Fixo;08/10/2021;14:15:52;Paraná - Ponta Grossa;4232220072;00:00:30;0,00;0;0;;;;Ligações Locais;;;;Paraná;Ponta Grossa;00042;041
+42 98808-0544;Claro-Fixo;08/10/2021;17:34:10;Paraná - Ponta Grossa;4230282836;00:00:30;0,00;0;0;;;;Ligações Locais;;;;Paraná;Ponta Grossa;00042;54100
+42 98808-0544;Claro-Fixo;08/10/2021;17:36:44;Paraná - Ponta Grossa;4230282836;00:00:30;0,00;0;0;;;;Ligações Locais;;;;Paraná;Ponta Grossa;00042;54100
+42 98808-0544;Internet (MB);08/10/2021;21:37:35;;;8,358398;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98808-0544;Internet (MB);09/10/2021;00:00:41;;;71,93164;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98808-0544;Internet (MB);09/10/2021;11:31:50;;;,298828;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98808-0544;Internet (MB);09/10/2021;14:52:05;;;101,262695;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98808-0544;Internet (MB);09/10/2021;22:38:26;;;,05371;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98808-0544;Internet (MB);10/10/2021;04:27:03;;;291,361328;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98808-0544;Internet (MB);10/10/2021;09:41:56;;;,083984;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98808-0544;Internet (MB);11/10/2021;04:23:57;;;84,211914;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98808-0544;Internet (MB);11/10/2021;11:16:26;;;17,760742;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98808-0544;Internet (MB);11/10/2021;12:46:50;;;182,84082;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98808-0544;Claro-Claro;11/10/2021;21:30:57;Paraná - Paraná (42);42988708993;00:00:30;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (42);00042;00042
+42 98808-0544;Internet (MB);12/10/2021;04:33:39;;;24,950195;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98808-0544;Internet (MB);12/10/2021;13:02:14;;;9,33496;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98808-0544;Internet (MB);13/10/2021;04:28:32;;;50,625976;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98808-0544;Internet (MB);13/10/2021;08:02:49;;;17,49121;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98808-0544;Claro-Claro;13/10/2021;14:23:15;Paraná - Paraná (42);42988879738;00:00:36;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (42);00042;00042
+42 98808-0544;Claro-Claro;13/10/2021;14:25:55;Paraná - Paraná (42);42988704301;00:00:36;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (42);00042;00042
+42 98808-0544;Int. Regional;13/10/2021;15:36:29;Paraná - Paraná (43);43991478493;00:01:36;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Paraná;Paraná (43);00042;00043
+42 98808-0544;Internet (MB);14/10/2021;04:26:52;;;15,626953;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98808-0544;Internet (MB);14/10/2021;10:02:51;;;,676757;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98808-0544;Internet (MB);15/10/2021;02:15:12;;;15,15332;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98808-0544;Int. Regional;15/10/2021;09:48:54;Paraná - Curitiba;4130149774;00:08:06;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Paraná;Curitiba;00042;00941
+42 98808-0544;Internet (MB);15/10/2021;10:53:07;;;1,134765;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98808-0544;Internet (MB);15/10/2021;12:33:16;;;,196289;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98808-0544;Internet (MB);15/10/2021;23:23:04;;;,029296;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98808-0544;Internet (MB);16/10/2021;00:38:02;;;14,740234;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98808-0544;Internet (MB);16/10/2021;13:10:14;;;157,658203;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98808-0544;Internet (MB);16/10/2021;22:42:21;;;,264648;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98808-0544;Internet (MB);17/10/2021;00:04:31;;;40,995117;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98808-0544;Internet (MB);17/10/2021;16:55:57;;;,398437;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98808-0544;Internet (MB);18/10/2021;07:48:22;;;28,666992;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98808-0544;Internet (MB);18/10/2021;12:30:57;;;5,201171;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98808-0544;Internet (MB);18/10/2021;17:08:10;;;4,201171;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98808-0544;Internet (MB);19/10/2021;01:50:33;;;13,176757;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98808-0544;Internet (MB);19/10/2021;08:00:19;;;71,857421;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98808-0544;Claro-Claro;20/10/2021;14:32:58;Paraná - Paraná (42);42999175627;00:00:30;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (42);00042;00042
+42 98808-1147;Internet (MB);20/09/2021;00:37:14;;;12,061523;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Aplic. Java;;;;00042;0
+42 98808-1147;Internet (MB);20/09/2021;02:25:26;;;153,700195;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98808-1147;Internet (MB);20/09/2021;09:30:06;;;1,464843;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98808-1147;Internet (MB);20/09/2021;10:46:39;;;,514648;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98808-1147;Claro-Outras Op.;20/09/2021;16:49:36;Paraná - Paraná (42);42999328485;00:38:24;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (42);00042;44000
+42 98808-1147;Claro-Outras Op.;20/09/2021;20:46:05;Paraná - Paraná (42);42999441127;00:43:30;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (42);00042;40000
+42 98808-1147;Internet (MB);21/09/2021;02:31:36;;;17,945312;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Aplic. Java;;;;00042;0
+42 98808-1147;Internet (MB);21/09/2021;02:31:36;;;185,862304;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98808-1147;Claro-Claro;21/09/2021;07:59:32;Paraná - Paraná (42);42988080544;00:00:30;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (42);00042;00042
+42 98808-1147;Internet (MB);21/09/2021;09:26:12;;;,609375;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98808-1147;Internet (MB);21/09/2021;10:19:06;;;,411132;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98808-1147;Claro-Claro;21/09/2021;12:05:09;Paraná - Paraná (42);42988080544;00:00:30;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (42);00042;00042
+42 98808-1147;Claro-Fixo;21/09/2021;15:47:03;Paraná - Ponta Grossa;4230284250;00:02:12;0,00;0;0;;;;Ligações Locais;;;;Paraná;Ponta Grossa;00042;00941
+42 98808-1147;Claro-Outras Op.;21/09/2021;16:09:15;Paraná - Paraná (42);42999328485;00:24:00;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (42);00042;04400
+42 98808-1147;Claro-Claro;21/09/2021;17:55:24;Paraná - Paraná (42);42988080544;00:00:30;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (42);00042;00042
+42 98808-1147;Internet (MB);22/09/2021;00:42:29;;;187,199218;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98808-1147;Internet (MB);22/09/2021;07:48:14;;;,74707;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98808-1147;Internet (MB);22/09/2021;07:53:39;;;30,597656;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Aplic. Java;;;;00042;0
+42 98808-1147;Internet (MB);22/09/2021;11:46:26;;;,710937;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98808-1147;Claro-Outras Op.;22/09/2021;20:02:39;Paraná - Paraná (42);42999310797;00:01:12;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (42);00042;04000
+42 98808-1147;Internet (MB);23/09/2021;00:15:53;;;54,032226;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98808-1147;Internet (MB);23/09/2021;00:17:49;;;10,18164;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Aplic. Java;;;;00042;0
+42 98808-1147;Internet (MB);23/09/2021;00:22:29;;;,341796;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98808-1147;Claro-Outras Op.;23/09/2021;00:47:36;Paraná - Paraná (42);42999310797;00:30:48;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (42);00042;04000
+42 98808-1147;Internet (MB);23/09/2021;09:32:52;;;,127929;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98808-1147;Claro-Claro;23/09/2021;09:56:06;Paraná - Paraná (42);42988080544;00:03:48;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (42);00042;00042
+42 98808-1147;Internet (MB);24/09/2021;07:50:08;;;355,99414;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98808-1147;Claro-Outras Op.;24/09/2021;08:28:55;Paraná - Paraná (42);42998295519;00:00:48;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (42);00042;40000
+42 98808-1147;Internet (MB);24/09/2021;09:34:49;;;31,814453;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Aplic. Java;;;;00042;0
+42 98808-1147;Internet (MB);24/09/2021;11:10:21;;;,690429;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98808-1147;Claro-Claro;24/09/2021;11:34:23;Paraná - Paraná (42);42999973444;00:01:18;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (42);00042;00042
+42 98808-1147;Claro-Fixo;24/09/2021;11:56:21;Paraná - Ponta Grossa;4232224917;00:05:24;0,00;0;0;;;;Ligações Locais;;;;Paraná;Ponta Grossa;00042;041
+42 98808-1147;Internet (MB);24/09/2021;13:43:18;;;10,500976;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98808-1147;Claro-Claro;24/09/2021;14:30:57;Paraná - Paraná (42);42988080544;00:00:48;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (42);00042;00042
+42 98808-1147;Claro-Claro;24/09/2021;15:36:06;Paraná - Paraná (42);42998720272;00:00:54;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (42);00042;00042
+42 98808-1147;Claro-Claro;24/09/2021;16:14:34;Paraná - Paraná (42);42988080544;00:00:30;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (42);00042;00042
+42 98808-1147;Claro-Claro;24/09/2021;16:34:19;Paraná - Paraná (42);42988080544;00:02:00;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (42);00042;00042
+42 98808-1147;Claro-Outras Op.;24/09/2021;18:43:58;Paraná - Paraná (42);42998021285;00:00:42;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (42);00042;04000
+42 98808-1147;Internet (MB);25/09/2021;01:40:46;;;9,202148;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Aplic. Java;;;;00042;0
+42 98808-1147;Internet (MB);25/09/2021;01:40:46;;;45,263671;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98808-1147;Claro-Claro;25/09/2021;10:29:14;Paraná - Paraná (42);42988080544;00:01:24;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (42);00042;00042
+42 98808-1147;Internet (MB);25/09/2021;14:03:22;;;,291992;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98808-1147;Internet (MB);25/09/2021;16:13:36;;;16,875;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98808-1147;Internet (MB);26/09/2021;00:33:30;;;1,386718;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98808-1147;Internet (MB);26/09/2021;08:32:38;;;,044921;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98808-1147;Internet (MB);26/09/2021;23:44:22;;;,15039;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98808-1147;Internet (MB);27/09/2021;01:44:06;;;3,828125;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98808-1147;Internet (MB);27/09/2021;07:50:35;;;,043945;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98808-1147;Internet (MB);27/09/2021;07:50:40;;;,144531;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Aplic. Java;;;;00042;0
+42 98808-1147;Claro-Outras Op.;27/09/2021;08:09:57;Paraná - Paraná (42);42999441127;00:41:36;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (42);00042;40000
+42 98808-1147;Internet (MB);27/09/2021;09:52:39;;;,28125;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98808-1147;Claro-Outras Op.;27/09/2021;10:56:27;Paraná - Paraná (42);42984214441;00:00:54;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (42);00042;00540
+42 98808-1147;Claro-Outras Op.;27/09/2021;11:21:56;Paraná - Paraná (42);42999386732;00:00:48;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (42);00042;44000
+42 98808-1147;Claro-Outras Op.;27/09/2021;11:23:09;Paraná - Paraná (42);42999386723;00:05:30;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (42);00042;44000
+42 98808-1147;Claro-Outras Op.;27/09/2021;11:45:01;Paraná - Paraná (42);42991267238;00:01:12;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (42);00042;44000
+42 98808-1147;Claro-Outras Op.;27/09/2021;13:36:05;Paraná - Paraná (42);42999379725;00:01:24;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (42);00042;40000
+42 98808-1147;Claro-Outras Op.;27/09/2021;14:06:15;Paraná - Paraná (42);42999347489;00:03:18;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (42);00042;40000
+42 98808-1147;Claro-Outras Op.;27/09/2021;14:14:02;Paraná - Paraná (42);42984036928;00:04:24;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (42);00042;00540
+42 98808-1147;Claro-Claro;27/09/2021;18:27:19;Paraná - Paraná (42);42998454176;00:02:30;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (42);00042;00042
+42 98808-1147;Internet (MB);28/09/2021;00:42:47;;;184,330078;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98808-1147;Internet (MB);28/09/2021;07:38:41;;;6,470703;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Aplic. Java;;;;00042;0
+42 98808-1147;Internet (MB);28/09/2021;07:38:41;;;1,283203;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98808-1147;Internet (MB);28/09/2021;07:46:30;;;28,987304;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98808-1147;Claro-Claro;28/09/2021;14:02:43;Paraná - Paraná (42);42984021948;00:05:00;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (42);00042;00042
+42 98808-1147;Claro-Claro;28/09/2021;15:37:17;Paraná - Paraná (42);42988080544;00:04:18;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (42);00042;00042
+42 98808-1147;Internet (MB);29/09/2021;07:17:04;;;99,794921;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98808-1147;Claro-Outras Op.;29/09/2021;09:16:48;Paraná - Paraná (42);42998190588;00:13:42;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (42);00042;04400
+42 98808-1147;Internet (MB);29/09/2021;09:38:55;;;17,74414;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Aplic. Java;;;;00042;0
+42 98808-1147;Internet (MB);29/09/2021;09:41:25;;;1,698242;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98808-1147;Internet (MB);29/09/2021;09:45:57;;;,599609;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98808-1147;Claro-Claro;29/09/2021;11:16:30;Paraná - Paraná (42);42988080544;00:04:12;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (42);00042;00042
+42 98808-1147;Claro-Claro;29/09/2021;12:07:50;Paraná - Paraná (42);42998720272;00:02:48;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (42);00042;00042
+42 98808-1147;Claro-Outras Op.;29/09/2021;14:47:24;Paraná - Paraná (42);42999581592;00:00:54;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (42);00042;04000
+42 98808-1147;Claro-Outras Op.;29/09/2021;14:55:37;Paraná - Paraná (42);42999581592;00:00:30;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (42);00042;04000
+42 98808-1147;Claro-Claro;29/09/2021;15:21:37;Paraná - Paraná (42);42988080544;00:00:30;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (42);00042;00042
+42 98808-1147;Internet (MB);30/09/2021;00:21:00;;;468,103515;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98808-1147;Internet (MB);30/09/2021;07:40:41;;;34,83789;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Aplic. Java;;;;00042;0
+42 98808-1147;Internet (MB);30/09/2021;07:53:53;;;148,711914;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98808-1147;Internet (MB);30/09/2021;07:57:13;;;3,067382;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98808-1147;Claro-Claro;30/09/2021;09:06:02;Paraná - Paraná (42);42988080544;00:02:06;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (42);00042;00042
+42 98808-1147;Claro-Claro;30/09/2021;09:18:41;Paraná - Paraná (42);42988080544;00:02:30;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (42);00042;00042
+42 98808-1147;Claro-Claro;30/09/2021;11:21:43;Paraná - Paraná (42);42988080544;00:09:30;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (42);00042;00042
+42 98808-1147;Claro-Claro;30/09/2021;15:40:38;Paraná - Paraná (42);42988080544;00:01:00;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (42);00042;00042
+42 98808-1147;Claro-Outras Op.;30/09/2021;15:43:19;Paraná - Paraná (42);42999086574;00:05:12;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (42);00042;40000
+42 98808-1147;Internet (MB);01/10/2021;07:47:52;;;63,34375;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98808-1147;Internet (MB);01/10/2021;09:52:40;;;7,99707;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Aplic. Java;;;;00042;0
+42 98808-1147;Internet (MB);01/10/2021;10:18:31;;;4,948242;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98808-1147;Internet (MB);01/10/2021;10:24:29;;;,347656;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98808-1147;Claro-Claro;01/10/2021;10:44:25;Paraná - Paraná (42);42988080544;00:09:00;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (42);00042;00042
+42 98808-1147;Claro-Claro;01/10/2021;11:47:22;Paraná - Paraná (42);42988080544;00:03:00;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (42);00042;00042
+42 98808-1147;Claro-Claro;01/10/2021;12:19:45;Paraná - Paraná (42);42988080544;00:02:06;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (42);00042;00042
+42 98808-1147;Internet (MB);02/10/2021;02:27:13;;;1,952148;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98808-1147;Internet (MB);02/10/2021;12:32:37;;;,096679;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Aplic. Java;;;;00042;0
+42 98808-1147;Internet (MB);02/10/2021;12:50:13;;;,208984;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98808-1147;Claro-Outras Op.;02/10/2021;12:53:30;Paraná - Paraná (42);42999857814;00:00:30;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (42);00042;40000
+42 98808-1147;Internet (MB);03/10/2021;00:14:02;;;,898437;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98808-1147;Internet (MB);03/10/2021;12:27:16;;;,155273;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98808-1147;Internet (MB);03/10/2021;13:32:59;;;,260742;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98808-1147;Internet (MB);04/10/2021;00:19:17;;;151,27246;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98808-1147;Claro-Outras Op.;04/10/2021;09:00:53;Paraná - Paraná (42);42999441127;00:32:06;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (42);00042;04000
+42 98808-1147;Internet (MB);04/10/2021;10:37:18;;;2,054687;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98808-1147;Int. Nacional;04/10/2021;10:47:12;Paraná - São Paulo (11);11983411414;00:00:30;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Paraná;São Paulo (11);00042;00011
+42 98808-1147;Claro-Claro;04/10/2021;10:52:58;Paraná - Paraná (42);42988080544;00:06:42;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (42);00042;00042
+42 98808-1147;Claro-Claro;04/10/2021;12:14:16;Paraná - Paraná (42);42988080544;00:06:54;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (42);00042;00042
+42 98808-1147;Claro-Outras Op.;04/10/2021;12:21:42;Paraná - Paraná (42);42999086574;00:12:54;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (42);00042;04000
+42 98808-1147;Internet (MB);04/10/2021;12:45:36;;;2,058593;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98808-1147;Claro-Outras Op.;04/10/2021;13:16:47;Paraná - Paraná (42);42999086574;00:01:00;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (42);00042;04000
+42 98808-1147;Claro-Claro;04/10/2021;13:18:13;Paraná - Paraná (42);42988080544;00:00:36;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (42);00042;00042
+42 98808-1147;Claro-Claro;04/10/2021;13:20:46;Paraná - Paraná (42);42998434428;00:02:18;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (42);00042;00042
+42 98808-1147;Claro-Claro;04/10/2021;15:47:37;Paraná - Paraná (42);42999010954;00:01:36;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (42);00042;00042
+42 98808-1147;Claro-Outras Op.;04/10/2021;16:07:32;Paraná - Paraná (42);42999247850;00:00:54;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (42);00042;04000
+42 98808-1147;Claro-Outras Op.;04/10/2021;16:37:59;Paraná - Paraná (42);42999923580;00:00:30;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (42);00042;04400
+42 98808-1147;Torpedos;04/10/2021;16:44:23;;42999946299;1;0,39;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Torpedo - Outras Operadoras;;;;00042;54000
+42 98808-1147;Torpedos;04/10/2021;16:46:27;;42999946299;1;0,39;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Torpedo - Outras Operadoras;;;;00042;54000
+42 98808-1147;Claro-Outras Op.;04/10/2021;16:48:21;Paraná - Paraná (42);42999946299;00:04:06;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (42);00042;54000
+42 98808-1147;Claro-Outras Op.;04/10/2021;18:47:27;Paraná - Paraná (42);42999923580;00:06:18;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (42);00042;04400
+42 98808-1147;Claro-Fixo;04/10/2021;19:15:27;Paraná - Ponta Grossa;4232224917;00:24:54;0,00;0;0;;;;Ligações Locais;;;;Paraná;Ponta Grossa;00042;041
+42 98808-1147;Internet (MB);05/10/2021;03:05:18;;;49,630859;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98808-1147;Internet (MB);05/10/2021;09:34:03;;;3,173828;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98808-1147;Internet (MB);05/10/2021;09:41:42;;;,958984;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98808-1147;Claro-Outras Op.;05/10/2021;09:49:27;Paraná - Paraná (42);42991267238;00:00:30;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (42);00042;04400
+42 98808-1147;Claro-Claro;05/10/2021;10:34:47;Paraná - Paraná (42);42988080544;00:01:06;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (42);00042;00042
+42 98808-1147;Claro-Outras Op.;05/10/2021;17:53:58;Paraná - Paraná (42);42999086574;00:00:42;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (42);00042;04000
+42 98808-1147;Int. Nacional;05/10/2021;18:40:09;Paraná - São Paulo (11);11983411414;00:07:00;0,00;0;0;;;;Interurbanas e Rec. em viagem 21 - Embratel;;;;Paraná;São Paulo (11);00042;00011
+42 98808-1147;Claro-Claro;05/10/2021;22:06:56;Paraná - Paraná (42);42988080544;00:00:30;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (42);00042;00042
+42 98808-1147;Internet (MB);06/10/2021;00:16:56;;;52,008789;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98808-1147;Internet (MB);06/10/2021;07:59:21;;;,925781;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98808-1147;Claro-Claro;06/10/2021;09:22:28;Paraná - Paraná (42);42998434428;00:00:30;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (42);00042;00042
+42 98808-1147;Claro-Fixo;06/10/2021;12:20:41;Paraná - Ponta Grossa;4232224917;00:06:12;0,00;0;0;;;;Ligações Locais;;;;Paraná;Ponta Grossa;00042;041
+42 98808-1147;Internet (MB);06/10/2021;16:29:02;;;536,52539;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98808-1147;Internet (MB);07/10/2021;00:33:55;;;114,710937;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98808-1147;Internet (MB);07/10/2021;10:08:55;;;47,628906;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98808-1147;Internet (MB);07/10/2021;11:11:46;;;1,475585;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98808-1147;Claro-Claro;07/10/2021;15:47:36;Paraná - Paraná (42);42984021948;00:08:12;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (42);00042;00042
+42 98808-1147;Internet (MB);07/10/2021;22:02:26;;;,167968;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98808-1147;Internet (MB);08/10/2021;08:27:30;;;205,641601;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98808-1147;Claro-Outras Op.;08/10/2021;11:53:43;Paraná - Paraná (42);42999086574;00:00:48;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (42);00042;04000
+42 98808-1147;Internet (MB);08/10/2021;14:14:15;;;,766601;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98808-1147;Internet (MB);08/10/2021;19:45:21;;;359,050781;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98808-1147;Internet (MB);09/10/2021;17:09:54;;;,516601;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98808-1147;Internet (MB);10/10/2021;00:35:03;;;35,319335;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98808-1147;Internet (MB);10/10/2021;09:06:17;;;,321289;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98808-1147;Internet (MB);10/10/2021;13:51:28;;;271,986328;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98808-1147;Internet (MB);11/10/2021;01:24:09;;;73,776367;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98808-1147;Claro-Outras Op.;11/10/2021;13:14:49;Paraná - Paraná (42);42999086574;00:02:12;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (42);00042;04000
+42 98808-1147;Internet (MB);11/10/2021;14:24:30;;;,456054;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98808-1147;Internet (MB);11/10/2021;14:27:59;;;353,258789;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98808-1147;Claro-Outras Op.;11/10/2021;15:51:33;Paraná - Paraná (42);42999086574;00:00:48;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (42);00042;04000
+42 98808-1147;Claro-Claro;11/10/2021;16:07:56;Paraná - Paraná (42);42988080544;00:01:18;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (42);00042;00042
+42 98808-1147;Claro-Claro;11/10/2021;19:42:55;Paraná - Paraná (42);42988080544;00:01:06;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (42);00042;00042
+42 98808-1147;Internet (MB);11/10/2021;23:36:55;;;,109375;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98808-1147;Internet (MB);12/10/2021;01:36:52;;;,43164;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98808-1147;Internet (MB);13/10/2021;00:04:16;;;441,15625;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98808-1147;Internet (MB);13/10/2021;18:19:29;;;1,694335;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98808-1147;Internet (MB);13/10/2021;18:41:39;;;147,077148;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98808-1147;Internet (MB);14/10/2021;00:14:02;;;245,666992;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98808-1147;Internet (MB);14/10/2021;10:30:16;;;,333984;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98808-1147;Internet (MB);14/10/2021;11:45:01;;;2,605468;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98808-1147;Claro-Claro;14/10/2021;15:05:47;Paraná - Paraná (42);42988080544;00:00:54;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (42);00042;00042
+42 98808-1147;Claro-Claro;14/10/2021;15:20:01;Paraná - Paraná (42);42988080544;00:00:48;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (42);00042;00042
+42 98808-1147;Internet (MB);15/10/2021;00:31:40;;;18,639648;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98808-1147;Internet (MB);15/10/2021;12:40:54;;;,219726;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98808-1147;Internet (MB);15/10/2021;13:53:43;;;1,453125;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98808-1147;Claro-Outras Op.;15/10/2021;15:39:19;Paraná - Paraná (42);42999247850;00:09:30;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (42);00042;04000
+42 98808-1147;Internet (MB);16/10/2021;00:12:00;;;,646484;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98808-1147;Internet (MB);17/10/2021;08:38:33;;;,541992;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98808-1147;Internet (MB);17/10/2021;12:37:29;;;1,388671;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98808-1147;Internet (MB);17/10/2021;15:12:40;;;,037109;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98808-1147;Internet (MB);18/10/2021;07:35:51;;;359,475585;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98808-1147;Internet (MB);18/10/2021;07:51:43;;;1,445312;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98808-1147;Internet (MB);18/10/2021;10:51:18;;;5,376953;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98808-1147;Claro-Claro;18/10/2021;18:03:43;Paraná - Paraná (42);42988080544;00:00:30;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (42);00042;00042
+42 98808-1147;Internet (MB);19/10/2021;00:43:52;;;389,112304;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98808-1147;Internet (MB);19/10/2021;07:55:02;;;2,80957;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98808-1147;Claro-Outras Op.;19/10/2021;09:31:29;Paraná - Paraná (42);42998190588;00:15:00;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (42);00042;44000
+42 98808-1147;Internet (MB);19/10/2021;10:44:39;;;2,329101;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98808-1147;Claro-Fixo;19/10/2021;11:25:06;Paraná - Ponta Grossa;4232224917;00:02:12;0,00;0;0;;;;Ligações Locais;;;;Paraná;Ponta Grossa;00042;041
+42 98816-0041;Internet (MB);20/09/2021;09:29:43;;;2,713867;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98816-0041;Internet (MB);20/09/2021;09:33:59;;;,121093;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98816-0041;Internet (MB);04/10/2021;21:23:10;;;3,760742;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98816-0041;Internet (MB);04/10/2021;21:23:13;;;,038085;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98816-0041;Internet (MB);05/10/2021;01:24:23;;;2,526367;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98816-0041;Internet (MB);05/10/2021;08:47:55;;;,076171;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98870-8993;Internet (MB);19/09/2021;21:51:27;;;,018554;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98870-8993;Internet (MB);19/09/2021;21:51:28;;;,009765;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Aplic. Java;;;;00042;0
+42 98870-8993;Internet (MB);19/09/2021;21:51:29;;;,256835;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98870-8993;Internet (MB);20/09/2021;07:16:50;;;256,356445;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98870-8993;Internet (MB);20/09/2021;07:16:54;;;3,061523;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98870-8993;Internet (MB);20/09/2021;07:35:31;;;1,415039;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Aplic. Java;;;;00042;0
+42 98870-8993;Internet (MB);20/09/2021;07:54:18;;;1,02539;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98870-8993;Internet (MB);21/09/2021;07:37:43;;;706,708007;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98870-8993;Internet (MB);21/09/2021;07:37:44;;;89,177734;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98870-8993;Internet (MB);21/09/2021;07:47:22;;;10,007812;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Aplic. Java;;;;00042;0
+42 98870-8993;Internet (MB);21/09/2021;07:47:41;;;6,801757;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98870-8993;Internet (MB);22/09/2021;00:42:37;;;718,884765;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98870-8993;Internet (MB);22/09/2021;07:27:33;;;5,229492;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98870-8993;Internet (MB);22/09/2021;07:27:33;;;170,11914;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98870-8993;Internet (MB);22/09/2021;07:27:34;;;22,90625;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Aplic. Java;;;;00042;0
+42 98870-8993;Internet (MB);22/09/2021;21:43:42;;;,060546;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98870-8993;Internet (MB);23/09/2021;07:41:13;;;699,53125;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98870-8993;Internet (MB);23/09/2021;07:41:20;;;8,5625;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Aplic. Java;;;;00042;0
+42 98870-8993;Internet (MB);23/09/2021;07:41:21;;;2,314453;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98870-8993;Internet (MB);23/09/2021;07:41:56;;;77,482421;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98870-8993;Internet (MB);24/09/2021;07:20:01;;;1251,302734;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98870-8993;Internet (MB);24/09/2021;07:20:02;;;21,669921;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Aplic. Java;;;;00042;0
+42 98870-8993;Internet (MB);24/09/2021;07:20:04;;;4,458984;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98870-8993;Internet (MB);24/09/2021;07:23:11;;;426,041015;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98870-8993;Internet (MB);25/09/2021;00:53:12;;;333,294921;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98870-8993;Internet (MB);25/09/2021;09:49:48;;;1,586914;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Aplic. Java;;;;00042;0
+42 98870-8993;Internet (MB);25/09/2021;09:51:51;;;1,774414;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98870-8993;Internet (MB);25/09/2021;12:29:30;;;,159179;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98870-8993;Internet (MB);25/09/2021;21:40:13;;;48,65625;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98870-8993;Internet (MB);26/09/2021;00:00:02;;;,481445;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Aplic. Java;;;;00042;0
+42 98870-8993;Internet (MB);26/09/2021;01:08:43;;;335,141601;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98870-8993;Internet (MB);26/09/2021;01:12:42;;;,907226;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98870-8993;Internet (MB);26/09/2021;13:16:44;;;,918945;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98870-8993;Claro-Outras Op.;26/09/2021;14:36:28;Paraná - Paraná (42);42999254068;00:00:30;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (42);00042;04000
+42 98870-8993;Internet (MB);27/09/2021;07:37:13;;;224,443359;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98870-8993;Internet (MB);27/09/2021;07:37:14;;;110,972656;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98870-8993;Internet (MB);27/09/2021;07:40:45;;;5,570312;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Aplic. Java;;;;00042;0
+42 98870-8993;Internet (MB);27/09/2021;07:58:40;;;1,988281;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98870-8993;Internet (MB);28/09/2021;07:35:58;;;1,132812;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Aplic. Java;;;;00042;0
+42 98870-8993;Internet (MB);28/09/2021;07:35:58;;;646,960937;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98870-8993;Internet (MB);28/09/2021;07:36:04;;;3,745117;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98870-8993;Internet (MB);28/09/2021;11:01:37;;;,155273;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98870-8993;Claro-Claro;28/09/2021;19:40:16;Paraná - Paraná (42);42988081147;00:00:54;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (42);00042;00042
+42 98870-8993;Internet (MB);29/09/2021;01:38:39;;;98,77246;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98870-8993;Internet (MB);29/09/2021;07:27:20;;;1,761718;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98870-8993;Internet (MB);29/09/2021;07:42:22;;;17,601562;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Aplic. Java;;;;00042;0
+42 98870-8993;Internet (MB);29/09/2021;07:49:19;;;2,240234;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98870-8993;Internet (MB);30/09/2021;07:21:56;;;100,487304;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98870-8993;Internet (MB);30/09/2021;07:21:58;;;1,628906;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98870-8993;Internet (MB);30/09/2021;07:22:01;;;28,885742;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Aplic. Java;;;;00042;0
+42 98870-8993;Internet (MB);30/09/2021;07:40:16;;;,542968;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98870-8993;Claro-Claro;30/09/2021;20:05:34;Paraná - Paraná (42);42988081147;00:00:36;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (42);00042;00042
+42 98870-8993;Internet (MB);01/10/2021;00:00:10;;;73,607421;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98870-8993;Internet (MB);01/10/2021;00:00:11;;;6,448242;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Aplic. Java;;;;00042;0
+42 98870-8993;Internet (MB);01/10/2021;00:32:36;;;2,402343;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98870-8993;Claro-Claro;01/10/2021;03:38:56;Paraná - Paraná (42);42988080544;00:00:30;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (42);00042;00042
+42 98870-8993;Internet (MB);01/10/2021;13:06:59;;;,521484;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98870-8993;Claro-Outras Op.;01/10/2021;21:21:19;Paraná - Paraná (42);42998436660;00:00:42;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (42);00042;40000
+42 98870-8993;Internet (MB);02/10/2021;04:38:14;;;27,704101;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98870-8993;Internet (MB);02/10/2021;12:55:00;;;,961914;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Aplic. Java;;;;00042;0
+42 98870-8993;Internet (MB);02/10/2021;12:56:05;;;1,752929;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98870-8993;Internet (MB);02/10/2021;17:55:28;;;17,238281;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98870-8993;Internet (MB);03/10/2021;00:00:55;;;5,703125;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Aplic. Java;;;;00042;0
+42 98870-8993;Internet (MB);03/10/2021;00:03:05;;;34,600585;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98870-8993;Internet (MB);03/10/2021;00:25:08;;;1,443359;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98870-8993;Claro-Claro;03/10/2021;19:57:04;Paraná - Paraná (42);42988081147;00:00:30;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (42);00042;00042
+42 98870-8993;Internet (MB);04/10/2021;07:28:33;;;68,913085;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98870-8993;Internet (MB);04/10/2021;07:33:44;;;2,142578;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98870-8993;Internet (MB);04/10/2021;12:00:56;;;,104492;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98870-8993;Internet (MB);05/10/2021;07:41:26;;;79,666015;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98870-8993;Internet (MB);05/10/2021;07:41:28;;;,339843;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98870-8993;Internet (MB);05/10/2021;08:01:38;;;1,961914;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98870-8993;Internet (MB);06/10/2021;00:38:18;;;96,471679;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98870-8993;Internet (MB);06/10/2021;07:51:05;;;1,207031;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98870-8993;Internet (MB);06/10/2021;16:01:11;;;,507812;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98870-8993;Internet (MB);06/10/2021;22:10:48;;;,057617;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98870-8993;Internet (MB);07/10/2021;07:47:12;;;59,883789;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98870-8993;Internet (MB);07/10/2021;07:48:12;;;2,71875;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98870-8993;Internet (MB);07/10/2021;07:50:31;;;1,27539;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98870-8993;Claro-Claro;07/10/2021;18:35:54;Paraná - Paraná (42);42988080544;00:00:30;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (42);00042;00042
+42 98870-8993;Claro-Claro;07/10/2021;20:08:12;Paraná - Paraná (42);42988080544;00:00:30;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (42);00042;00042
+42 98870-8993;Internet (MB);08/10/2021;07:22:21;;;87,835937;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98870-8993;Internet (MB);08/10/2021;07:22:22;;;1,543945;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98870-8993;Internet (MB);08/10/2021;07:46:16;;;1,626953;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98870-8993;Internet (MB);09/10/2021;03:24:03;;;28,240234;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98870-8993;Internet (MB);09/10/2021;15:01:11;;;,259765;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98870-8993;Internet (MB);09/10/2021;15:21:23;;;,567382;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98870-8993;Internet (MB);10/10/2021;00:02:05;;;27,447265;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98870-8993;Internet (MB);10/10/2021;02:30:13;;;,307617;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98870-8993;Internet (MB);10/10/2021;20:12:54;;;,082031;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98870-8993;Internet (MB);11/10/2021;07:43:51;;;98,799804;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98870-8993;Internet (MB);11/10/2021;08:01:00;;;1,70996;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98870-8993;Internet (MB);11/10/2021;13:00:53;;;,836914;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98870-8993;Claro-Outras Op.;11/10/2021;19:30:43;Paraná - Paraná (42);42998557809;00:00:30;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (42);00042;04000
+42 98870-8993;Claro-Fixo;11/10/2021;22:59:15;Paraná - Ponta Grossa;4233237177;00:01:24;0,00;0;0;;;;Ligações Locais;;;;Paraná;Ponta Grossa;00042;24100
+42 98870-8993;Claro-Fixo;11/10/2021;23:45:41;Paraná - Ponta Grossa;4233237177;00:02:18;0,00;0;0;;;;Ligações Locais;;;;Paraná;Ponta Grossa;00042;24100
+42 98870-8993;Claro-Fixo;12/10/2021;00:01:34;Paraná - Ponta Grossa;4233237177;00:01:06;0,00;0;0;;;;Ligações Locais;;;;Paraná;Ponta Grossa;00042;24100
+42 98870-8993;Internet (MB);12/10/2021;01:11:26;;;1,538085;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98870-8993;Internet (MB);12/10/2021;04:16:09;;;,098632;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98870-8993;Claro-Claro;12/10/2021;16:40:32;Paraná - Paraná (42);42988081147;00:01:00;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (42);00042;00042
+42 98870-8993;Internet (MB);13/10/2021;03:18:11;;;110,225585;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98870-8993;Internet (MB);13/10/2021;07:07:38;;;4,988281;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98870-8993;Internet (MB);13/10/2021;09:13:33;;;1,418945;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98870-8993;Internet (MB);14/10/2021;07:23:23;;;105,620117;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98870-8993;Internet (MB);14/10/2021;07:29:45;;;1,68164;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98870-8993;Internet (MB);14/10/2021;07:30:51;;;2,878906;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98870-8993;Claro-Outras Op.;14/10/2021;18:32:16;Paraná - Paraná (42);42999620295;00:00:30;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (42);00042;44000
+42 98870-8993;Internet (MB);14/10/2021;20:10:20;;;,009765;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98870-8993;Internet (MB);14/10/2021;20:10:20;;;,051757;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98870-8993;Claro-Claro;14/10/2021;20:18:02;Paraná - Paraná (42);42988080544;00:00:30;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (42);00042;00042
+42 98870-8993;Claro-Outras Op.;14/10/2021;22:51:00;Paraná - Paraná (42);42998557809;00:00:30;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (42);00042;40000
+42 98870-8993;Internet (MB);15/10/2021;06:01:32;;;124,993164;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98870-8993;Internet (MB);15/10/2021;06:08:09;;;,769531;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98870-8993;Internet (MB);15/10/2021;07:31:27;;;2,066406;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98870-8993;Internet (MB);16/10/2021;01:47:24;;;93,502929;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98870-8993;Internet (MB);16/10/2021;10:40:10;;;,21582;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98870-8993;Claro-Outras Op.;16/10/2021;22:26:52;Paraná - Paraná (42);42991045427;00:00:30;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (42);00042;04400
+42 98870-8993;Internet (MB);17/10/2021;04:06:12;;;,253906;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98870-8993;Internet (MB);17/10/2021;13:59:59;;;,739257;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98870-8993;Claro-Outras Op.;17/10/2021;18:51:23;Paraná - Paraná (42);42998557809;00:00:30;0,00;0;0;;;;Ligações Locais;;;;Paraná;Paraná (42);00042;04000
+42 98870-8993;Internet (MB);18/10/2021;01:28:08;;;214,063476;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98870-8993;Internet (MB);18/10/2021;07:20:44;;;17,479492;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98870-8993;Internet (MB);18/10/2021;07:44:38;;;1,540039;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98870-8993;Internet (MB);19/10/2021;07:26:33;;;172,980468;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98870-8993;Internet (MB);19/10/2021;07:26:36;;;2,798828;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
+42 98870-8993;Internet (MB);19/10/2021;07:36:35;;;,342773;0,00;0;0;;;;Serviços (Torpedos, Hits, Jogos, etc.);;Navegação Web;;;;00042;0
