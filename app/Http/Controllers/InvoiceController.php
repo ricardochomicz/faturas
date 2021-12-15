@@ -2,6 +2,7 @@
 
 namespace App\Http\Controllers;
 
+use App\Models\Invoice;
 use Illuminate\Http\Request;
 use Spatie\PdfToText\Pdf;
 
@@ -16,7 +17,8 @@ class InvoiceController extends Controller
      */
     public function index()
     {
-        return view('welcome');
+        $invoices = Invoice::all();
+        return view('welcome', compact('invoices'));
     }
 
     /**
@@ -37,49 +39,27 @@ class InvoiceController extends Controller
      */
     public function store(Request $request)
     {
+        $file = new \SplFileObject($request->document);
+        $file->seek(0);
+        $empresa = $file->current();
+        $file->seek(7);
+        $valor = $file->current();
 
-        // $dados = file($request->document);
-        // $TiraLnha = array_shift($dados);
-
-        // foreach ($dados as $linha) {
-        //     $linha = trim($linha);
-
-        //     $valor = explode(';', $linha);
-        // }
-
-
-
-        // Aqui você abre e lê o arquivo
-        $arquivo = fopen($request->document, 'r');
-        // Aqui você está definindo que a variável é um 'array()'
-        $result = array();
-        // Você agora irá verificar se existe o arquivo e se o código acim o leu (true|false)
-        while (!feof($arquivo)) {
-            // Aqui foi onde você errou, pois seria '$result[]' e não '$result'
-            $result[] = explode(";", fgets($arquivo));
+        $fileIterator = new \LimitIterator($file, 21);
+        foreach ($fileIterator as $line) {
+            $linha = explode(';', $line);
+            $data = Invoice::create([
+                'empresa' => $empresa,
+                'valor' => preg_replace('/\D/', '', $valor),
+                'linhas' => $linha[0]
+            ]);
+           
         }
-        // Fechando a leitura do arquivo
-        fclose($arquivo);
+        
+
+     //return view('upload', compact('data'));
+
        
-        return view('upload', compact('result'));
-        //    // Postando resultados
-
-
-
-
-
-
-        // $conteudo = array();
-        // $f = fopen($request->document, "r");
-        // while ($linha = fgetcsv($f, 0, ';')) {
-
-        //     // retira o primeiro elemento do array, retornando-o para a variável $chave
-        //     $chave = array_shift($linha);
-
-        //     // associa a chave determinada na linha anterior o elemento restante do array
-        //     $conteudo[$chave] = $linha;
-        // }
-        // fclose($f);
     }
 
 

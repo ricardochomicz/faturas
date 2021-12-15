@@ -6,3 +6,19 @@
     <input type="file" name="document">
     <button type="submit">Enviar</button>
 </form>
+
+<table>
+    <tr>
+        <td></td>
+    </tr>
+    <tbody>
+        @foreach ($invoices as $item)
+        <tr>
+            <td>{{$item['linhas']}}</td>
+        </tr>
+        @endforeach
+       
+    </tbody>
+</table>
+
+
